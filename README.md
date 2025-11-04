@@ -1,4 +1,4 @@
-# online-gaming-analysis
-Analysis of online gaming data for Python final project.
+# imdb-top-250-analysis
+Analysis of IMDb top 250 movies for Python final project.
 
-(https://www.kaggle.com/datasets/anandshaw2001/video-game-sales)
+(https://www.kaggle.com/datasets/mohamedasak/imdb-top-250-movies)

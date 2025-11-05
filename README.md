@@ -36,11 +36,16 @@ The questions I wanted to answer and the steps I took for data manipulation in t
  ## Visualizations
  I created the following visualizations to address the guiding questions:
  * Which genres tend to have the highest average IMDb rating?
-![Genre vs. Rating Chart](assets/charts/genre_rating.png "Genre vs. Rating Chart")
+<img width="567" height="498" alt="Image" src="https://github.com/user-attachments/assets/f8b1d9fc-d782-4647-b53e-a19db469a28e" />
+  
 * Are older movies more likely to appear in the top 250 than newer ones?
-![Movies Per Decade Chart](assets/charts/movies_decade.png "Movies Per Decade Chart")
+<img width="562" height="455" alt="Image" src="https://github.com/user-attachments/assets/aff6b22b-3e52-4012-87a2-58bb768c46df" />
+
 * Which certificate category has the highest-rated films?
-![Certificate vs Rating Chart](assets/charts/certificate_rating.png "Certificate vs Rating Chart")
+<img width="567" height="455" alt="Image" src="https://github.com/user-attachments/assets/2f34c23e-557d-4110-9df9-bd6386950458" />
 
 ## Statistical Analysis
 I conducted descriptive statistics on the data from the "Rating" and "Year" columns to explore what rating and year the top 250 movies are clustered around. I found that the top 250 movies are clustered around a mean rating of 8.3 and the year 1988. Most of the movies were released within 30 years. The movies in the top 250 are within 1.3 points on the IMBd rating scale.
+
+## Conclusion
+The genres with the highest average rating are Western, Music, and Sci-Fi. The decades with the highest amount of movies in the top 250 are 1990, 2000, and 2010. The MPAA certificate that has the highest average rating is PG-13, but they are all within 0.21 points. 
